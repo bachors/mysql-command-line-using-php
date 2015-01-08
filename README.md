@@ -1,3 +1,3 @@
 Simple mysql command line using php
 
-<a href="http://ibacor.com/document/mysql-command-line/">DEMO</a>
+<a href="http://ibacor.com/demo/mysql-command-line/">DEMO</a>
